@@ -1,6 +1,6 @@
 {
     "name": "@safecoin/buffer-layout-utils",
-    "version": "0.2.1",
+    "version": "0.2.0",
     "author": "Safecoin Maintainers <safe@safecoin.org>",
     "repository": "https://github.com/fair-exchange/buffer-layout-utils",
     "license": "Apache-2.0",
