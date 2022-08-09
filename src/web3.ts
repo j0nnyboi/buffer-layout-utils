@@ -1,5 +1,5 @@
 import { blob, Layout } from '@solana/buffer-layout';
-import { PublicKey } from '@solana/web3.js';
+import { PublicKey } from '@safecoin/web3.js';
 import { encodeDecode } from './base';
 
 export const publicKey = (property?: string): Layout<PublicKey> => {
