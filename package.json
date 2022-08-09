@@ -1,8 +1,8 @@
 {
-    "name": "@solana/buffer-layout-utils",
-    "version": "0.2.0",
-    "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/buffer-layout-utils",
+    "name": "@safecoin/buffer-layout-utils",
+    "version": "0.2.1",
+    "author": "Safecoin Maintainers <safe@safecoin.org>",
+    "repository": "https://github.com/fair-exchange/buffer-layout-utils",
     "license": "Apache-2.0",
     "engines": {
         "node": ">= 10"
@@ -38,8 +38,8 @@
         "prepare": "yarn build"
     },
     "dependencies": {
-        "@solana/buffer-layout": "^4.0.0",
-        "@solana/web3.js": "^1.32.0",
+        "@safecoin/buffer-layout": "^4.0.0",
+        "@safecoin/web3.js": "^1.44.1",
         "bigint-buffer": "^1.1.5",
         "bignumber.js": "^9.0.1"
     },
